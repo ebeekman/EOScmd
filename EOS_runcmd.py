@@ -6,8 +6,6 @@ import json
 import requests
 import getpass
 
-switches = ["localhost"]
-
 class HandleConfiguration:
     switch_name = None
     switch_cmd = None
